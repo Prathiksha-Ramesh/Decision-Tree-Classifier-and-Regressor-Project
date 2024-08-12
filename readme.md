@@ -45,11 +45,10 @@ The Jupyter notebook notebook.ipynb is structured as follows:
 
 Overview of the Decision Tree algorithm, including its advantages, limitations, and applications in classification and regression.
 
-2.Data Loading and Preprocessing:
-
-1. Loading the Iris dataset.
-2. Preprocessing steps such as handling missing values, feature scaling, and data splitting.
-3. Decision Tree Classifier Implementation:
+2.Data Loading and Preprocessing
+- Loading the Iris dataset.
+- Preprocessing steps such as handling missing values, feature scaling, and data splitting.
+- Decision Tree Classifier Implementation:
 
 3. Implementation of the Decision Tree classifier using scikit-learn.
 
@@ -58,9 +57,9 @@ Evaluation of the classifier using metrics like accuracy, precision, recall, F1-
 
 4. Decision Tree Regressor Implementation:
 
-1. Implementation of the Decision Tree regressor using scikit-learn.
-2. Hyperparameter tuning to determine the best parameters for regression.
-3. Evaluation of the regressor using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared score.
+- Implementation of the Decision Tree regressor using scikit-learn.
+- Hyperparameter tuning to determine the best parameters for regression.
+- Evaluation of the regressor using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared score.
 
 5. Post-pruning:
 
@@ -79,9 +78,10 @@ Comparison of Decision Tree's performance with other machine learning models suc
 Visualization of the results using plots and graphs.
 Discussion on how different hyperparameters impact model performance.
 Analysis of the strengths and weaknesses of Decision Trees in various scenarios.
-Conclusion:
 
-9. Summary of key findings.
+9. Conclusion:
+
+Summary of key findings.
 Recommendations for applying Decision Trees in real-world applications.
 
 ## Results
