@@ -43,7 +43,7 @@ The Jupyter notebook notebook.ipynb is structured as follows:
 
 1. Introduction:
 
-Overview of the Decision Tree algorithm, including its advantages, limitations, and applications in classification and regression.
+- Overview of the Decision Tree algorithm, including its advantages, limitations, and applications in classification and regression.
 
 2.Data Loading and Preprocessing
 - Loading the Iris dataset.
@@ -52,8 +52,8 @@ Overview of the Decision Tree algorithm, including its advantages, limitations, 
 
 3. Implementation of the Decision Tree classifier using scikit-learn.
 
-Hyperparameter tuning using grid search to find the optimal parameters like max depth, min samples split, etc.
-Evaluation of the classifier using metrics like accuracy, precision, recall, F1-score, and a confusion matrix.
+- Hyperparameter tuning using grid search to find the optimal parameters like max depth, min samples split, etc.
+- Evaluation of the classifier using metrics like accuracy, precision, recall, F1-score, and a confusion matrix.
 
 4. Decision Tree Regressor Implementation:
 
@@ -63,29 +63,29 @@ Evaluation of the classifier using metrics like accuracy, precision, recall, F1-
 
 5. Post-pruning:
 
-Application of post-pruning techniques to prevent overfitting and improve model generalization.
+- Application of post-pruning techniques to prevent overfitting and improve model generalization.
 
 6. Pre-pruning and Hyperparameter Tuning:
 
-Application of pre-pruning techniques such as limiting the tree depth and minimum samples required for a split.
+- Application of pre-pruning techniques such as limiting the tree depth and minimum samples required for a split.
 
 7. Comparison with Other Models:
 
-Comparison of Decision Tree's performance with other machine learning models such as K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Linear Regression for both classification and regression tasks.
+- Comparison of Decision Tree's performance with other machine learning models such as K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Linear Regression for both classification and regression tasks.
 
 8. Results and Discussion:
 
-Visualization of the results using plots and graphs.
-Discussion on how different hyperparameters impact model performance.
-Analysis of the strengths and weaknesses of Decision Trees in various scenarios.
+- Visualization of the results using plots and graphs.
+- Discussion on how different hyperparameters impact model performance.
+- Analysis of the strengths and weaknesses of Decision Trees in various scenarios.
 
 9. Conclusion:
 
-Summary of key findings.
-Recommendations for applying Decision Trees in real-world applications.
+- Summary of key findings.
+- Recommendations for applying Decision Trees in real-world applications.
 
 ## Results
-The project highlights the performance of the Decision Tree algorithm in both classification and regression tasks. The results are visualized and discussed, with comparisons to other machine learning models to understand the context of Decision Tree's effectiveness.
+- The project highlights the performance of the Decision Tree algorithm in both classification and regression tasks. The results are visualized and discussed, with comparisons to other machine learning models to understand the context of Decision Tree's effectiveness.
 
 ## Usage
 
